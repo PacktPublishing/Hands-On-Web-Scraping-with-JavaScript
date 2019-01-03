@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+ 
+#heading {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    color: #fc9640;
+    border-bottom: 1px solid #ccc;
+    padding: 20px 0;
+}
+ 
+p.paragraph {
+    color: black;
+    margin: 20px 50px;
+}
+ 
+#heading, p.paragraph {
+    line-height: 1.5;
+}
+ 
+#heading + p.paragraph {
+    margin-top: 40px;
+}
