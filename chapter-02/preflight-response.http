@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Mon, 01 Jan 2019 23:35:16 GMT
+Server: Nginx
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: OPTIONS, HEAD, GET, POST
+Access-Control-Allow-Headers: Content-Type, Authorization
+Access-Control-Allow-Credentials: true
+Access-Control-Max-Age: 86400
+Cache-Control: no-cache
+Pragma: no-cache
