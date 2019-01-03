@@ -1,0 +1,8 @@
+OPTIONS / HTTP/1.1
+Host: example.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Accept: text/plain,*/*;q=0.01
+Connection: keep-alive
+Origin: http://localhost
+Access-Control-Request-Method: GET
+Access-Control-Request-Headers: Cache-Control, X-Requested-With
